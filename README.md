@@ -7,6 +7,7 @@ Minimal [Spring Boot](http://projects.spring.io/spring-boot/) sample app.
 
 ## Description
 In this application i tried to cover all the jwt functions with auth0 packaging to manage the user loging and user roles with authorities.
+<a href="http://54.237.195.177/" target="_blank">http://54.237.195.177/</a>
 
 ## Requirements
 
